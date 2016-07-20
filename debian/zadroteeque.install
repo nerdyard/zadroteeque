@@ -1,0 +1,4 @@
+src/zadroteeque/zadroteeque.sh /opt/zadroteeque/lib/
+src/data/* /opt/zadroteeque/data/
+src/init/* /lib/systemd/system/
+src/cfg/zadroteeque.json /etc/leicht/

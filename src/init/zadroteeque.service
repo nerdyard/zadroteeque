@@ -1,0 +1,8 @@
+[Unit]
+Description=Telegram bot for Zадроточат
+
+[Service]
+ExecStart=/usr/bin/leicht -c /etc/leicht/zadroteeque.json
+
+[Install]
+WantedBy=leicht.target

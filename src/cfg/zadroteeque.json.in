@@ -1,0 +1,10 @@
+{
+    "token": "%TOKEN%",
+    "socket": "/var/run/zadroteeque.sock",
+    "script": "/opt/zadroteeque/lib/zadroteeque.sh",
+    "logging": false,
+    "debug": false,
+    "logDirectory": "/var/log/leicht/",
+    "whitelistEnabled": false,
+    "whitelist": []
+}

@@ -1,0 +1,12 @@
+Source: zadroteeque
+Section: misc
+Priority: optional
+Maintainer: Azer Abdullaev (Like All) <like-all@yandex.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.5
+Homepage: https://github.com/nerdyard/zadroteeque
+
+Package: zadroteeque
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, leicht
+Description: Telegram bot for Zадроточат

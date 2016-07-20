@@ -1,0 +1,7 @@
+#!/bin/sh
+
+chown apps:apps /etc/leicht/zadroteeque.json
+chmod 400 /etc/leicht/zadroteeque.json
+
+systemctl enable zadroteeque.service
+systemctl start zadroteeque.service
