@@ -4,9 +4,5 @@ override_dh_auto_configure:
 	dh_auto_configure
 	sed "s/%TOKEN%/$SECRET1/" src/cfg/zadroteeque.json.in > src/cfg/zadroteeque.json
 
-override_dh_auto_clean:
-	dh_auto_clean
-	rm src/cfg/zadroteeque.json
-
 %:
 	dh $@ 
