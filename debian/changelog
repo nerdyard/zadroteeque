@@ -1,5 +1,11 @@
-zadroteeque (0.1-1) UNRELEASED; urgency=low
+zadroteeque (0.1-2) UNRELEASED; urgency=medium
+
+  * Import environment variable through shell
+
+ -- Azer Abdullaev (Like All) <like-all@yandex.com>  Wed, 20 Jul 2016 15:06:35 +0300
+
+zadroteeque (0.1-1) unstable; urgency=low
 
   * Initial release
 
- -- Azer Abdullaev (Like All) <like-all@yandex.com>  Wed, 20 Jul 2016 11:55:23 +0300
+ -- Azer Abdullaev (Like All) <like-all@yandex.com>  Wed, 20 Jul 2016 15:06:33 +0300
