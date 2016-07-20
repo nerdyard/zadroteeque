@@ -1,6 +1,6 @@
 #!/usr/bin/make -f
 
-SECRET1=$(shell echo $SECRET1)
+SECRET1=$(shell echo "$${SECRET1}")
 
 override_dh_auto_configure:
 	dh_auto_configure
