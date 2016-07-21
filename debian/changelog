@@ -1,8 +1,14 @@
-zadroteeque (0.1-12) UNRELEASED; urgency=medium
+zadroteeque (0.1-13) UNRELEASED; urgency=medium
+
+  * Change source format
+
+ -- Azer Abdullaev (Like All) <like-all@yandex.com>  Thu, 21 Jul 2016 13:38:58 +0300
+
+zadroteeque (0.1-12) unstable; urgency=medium
 
   * Force rebuild
 
- -- Azer Abdullaev (Like All) <like-all@yandex.com>  Thu, 21 Jul 2016 11:52:52 +0300
+ -- Azer Abdullaev (Like All) <like-all@yandex.com>  Thu, 21 Jul 2016 13:38:56 +0300
 
 zadroteeque (0.1-11) unstable; urgency=medium
 
