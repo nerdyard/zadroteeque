@@ -1,6 +1,7 @@
 zadroteeque (0.2-1) UNRELEASED; urgency=medium
 
   * Left-pad!
+  * iOS/OSX chat added
 
  -- Azer Abdullaev (Like All) <like-all@yandex.com>  Fri, 22 Jul 2016 18:36:54 +0300
 
