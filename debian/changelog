@@ -1,8 +1,14 @@
-zadroteeque (0.1-13) UNRELEASED; urgency=medium
+zadroteeque (0.2-1) UNRELEASED; urgency=medium
+
+  * Left-pad!
+
+ -- Azer Abdullaev (Like All) <like-all@yandex.com>  Fri, 22 Jul 2016 18:36:54 +0300
+
+zadroteeque (0.1-13) unstable; urgency=medium
 
   * Change source format
 
- -- Azer Abdullaev (Like All) <like-all@yandex.com>  Thu, 21 Jul 2016 13:38:58 +0300
+ -- Azer Abdullaev (Like All) <like-all@yandex.com>  Fri, 22 Jul 2016 18:36:34 +0300
 
 zadroteeque (0.1-12) unstable; urgency=medium
 
