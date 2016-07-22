@@ -1,9 +1,15 @@
-zadroteeque (0.2-1) UNRELEASED; urgency=medium
+zadroteeque (0.2-2) UNRELEASED; urgency=medium
+
+  * Non-breaking space in left-pad
+
+ -- Azer Abdullaev (Like All) <like-all@yandex.com>  Fri, 22 Jul 2016 18:51:25 +0300
+
+zadroteeque (0.2-1) unstable; urgency=medium
 
   * Left-pad!
   * iOS/OSX chat added
 
- -- Azer Abdullaev (Like All) <like-all@yandex.com>  Fri, 22 Jul 2016 18:36:54 +0300
+ -- Azer Abdullaev (Like All) <like-all@yandex.com>  Fri, 22 Jul 2016 18:51:24 +0300
 
 zadroteeque (0.1-13) unstable; urgency=medium
 
